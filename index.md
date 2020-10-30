@@ -4,13 +4,10 @@ You can use the [editor on GitHub](https://github.com/LMDuarte/Relationships/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Testing](https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html)
-
-[Go to the Support Web Site](https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html)
 
 <iframe src=
 "https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html"
-style="width:50%; height:300px;"
+style="width:100%; height:300px;"
 ></iframe>
 
 ### Markdown
