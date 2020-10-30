@@ -8,7 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Go to the Support Web Site](https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html)
 
-<iframe src="https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html"></iframe>
+<iframe src=
+"https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html"
+style="width:50%; height:300px;"
+></iframe>
 
 ### Markdown
 
