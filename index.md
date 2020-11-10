@@ -1,8 +1,6 @@
 ## LGBT and Straight relationships
 
-You can use the [editor on GitHub](https://github.com/LMDuarte/Relationships/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will present my results below in this web page. Here you can expect to see information regarding 
 
 
 <iframe src=
@@ -15,21 +13,7 @@ style="width:100%; height:400px;"
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Project page
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
