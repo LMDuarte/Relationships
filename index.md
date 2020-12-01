@@ -165,22 +165,56 @@ When looking at coping with stress, I decided to approach the visualization diff
 
 ![image](https://user-images.githubusercontent.com/69866550/100774389-a2563800-33c7-11eb-8647-c92e7b8cecb4.png)
 
+Figure15: Lesbian participants responses to the stress scale
+
+The Likert bar graphs seen in figures 15 properly visualize all responses, to the “stress” Likert scale. These graphs can present a lot of information without being overwhelming to the reader, while also being visually impressive and colorful. By looking at the three graphs, it is evident that all groups score a lower frequency for both: “See stressful situations in a different light” and “Takes on things that I normally do.” Nevertheless, the graph cannot correctly convey if all groups score similarly; for that analysis, a box plot is still necessary.
+
+The variable coping with stress was divided between relationship types
+When the data was divided between Lesbians(M=14.38,SD= 5.47) , Gays (M=14.28, SD=4.71) , and Straights(M=13.51, SD=4.97) it was compare with a one-way ANOVA, F(2,835)=12.41, p<0.00.
+
+![image](https://user-images.githubusercontent.com/69866550/100774767-0e38a080-33c8-11eb-8d7c-4545d44ed0af.png)
+
+Figure16: Participants responses to the stress scale
+
+![image](https://user-images.githubusercontent.com/69866550/100774973-45a74d00-33c8-11eb-8147-8082c4417ad9.png)
 
 
+## Discussion
+The purpose of this study was to visualize and quantify the difference between same-sex and different-sex couples. Additionally, the analysis of different scales and individual Likert questions served to showcase various visualization methods.
+
+### Power in the Relationship
+The data showed that Lesbians rated "strongly agree" in a higher proportion than straight participants. Yet, Lesbians were not significantly different from gay participants. Future studies should test if these results have to do with the rejection of social norms when entering a same-sex marriage.
+
+### Partner Care
+When observing the partner care scale results, it was visible that Lesbian participants scored the highest, and Straight participants the lowest. The one-way ANOVA test can tell us that lesbian, gay, and straight participants differed in their scores. These results are supported by what was previously known in the literature.
+
+### Happiness
+When observing the boxplot generated for "happiness with the relationship," it visible that gays, lesbians, and straights scored differently. The one-way ANOVA can only tell us that the three groups differ in their ratings; it is not clear if gay and lesbian participants differ from each other. Nonetheless, it is observable that straight participants scored the lowest. A single question measured the variable of happiness; future studies should go further in-depth to analyze reported happiness in same-sex and different-sex couples.
+
+### Communication
+The visual for "positive communication" in a relationship clearly shows the similarities between the groups. There was not a significant difference between either gay, lesbian, or straight participants. Although there is no significant difference between the groups, the lack of studies investigating same-sex couples gives weight to these findings. Further studies should go into communication styles in the LGBTQ community.
+
+### Coping with Stress
+Most participants in the study, regardless of the type of relationship, selected at least "often" in the scenarios presented in the "coping with stress" scale. When looking specifically at the average scores on the scale, it is visible that the groups differ. Lesbian participants score the highest and straight participants the lowest. The one-way ANOVA showed a significant difference between the groups. 
+
+## Conclusion-Visuals
+Every visual presented in this study has its strengths and weaknesses; 
+
+it all comes down to the visual's intended purpose.
+
+### Waffle and Pie
+The waffle graph served to visualize a single Likert question. With the waffle, it was visible how participants' responses were mostly located in a higher level of agreement to the statement "My spouse and I have equal power in our relationship." Still, it was not visible that there was a significant difference between Lesbians' selection and Straights' selection of strongly agree. That is only conveyed with the proportion test that was conducted between Lesbian and Straight participants. 
+
+Although the waffle failed to visualize the difference between groups, the pie graphs could visualize the comparison. The main issue that the pie graph resolves, is the differences in sample size between groups. The pie graphs visualize proportions, which results in comparable visuals. Both the pie and the waffle graphs present the data in a colorful, appealing, and informative manner.
+
+### Box Plot
+The Box plot serves to visualize Likert scales between multiple groups. The most significant advantage of the boxplot is visualizing a lot of data concisely and cleanly. A single boxplot can convey the distribution, the concentration, and outliers in the scores for a scale. Additionally, it showed how those scores varied between the three groups. However, to convey all that information, it needs to summarize some details from the data.
+
+### Likert Bar Graph
+Likert bar graphs can visualize either multiple groups answering the same question or one group answering numerous questions. In this specific analysis, three different visuals were generated, each showcasing the same scale, with the only difference being the participants' sexuality. The visual provided the distribution of responses for all questions in the scale. The liker bar graph also has the advantage of being colorful and provide information at a glance.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/69866550/100775481-f57cba80-33c8-11eb-8650-3a0a21ae4842.png)
 
 
 
