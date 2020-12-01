@@ -67,7 +67,7 @@ The issue of sample size can be resolve by visualizing the data in a pie chart i
 ![image](https://user-images.githubusercontent.com/69866550/100772691-8ce00e80-33c5-11eb-905b-60f638237bb2.png)
 ![image](https://user-images.githubusercontent.com/69866550/100772716-936e8600-33c5-11eb-8859-66af0ece434f.png)
 
-###Partner Care
+### Partner Care
 The original survey implemented a scale that measured both positive and negative behaviors associated with caring for a sick spouse. Participants were asked to rate how often their spouses engaged in actions that would aid them.
 
 Specifically, participants rated the following scenarios:
@@ -78,4 +78,47 @@ My spouse took care of tasks I normally do in order to help me
 My spouse dealt with doctors or medical staff in ways that helped me
 My spouse gave me the time and space that I needed.
 ```
+They had the option of rating the scenario as happening:
+```
+often
+sometimes
+rarely
+never.
+```
+The variable of partner care was divided between lesbian (M=14.75, SD= 6.55), gay (M=13.78, SD=6.24), and straight (M=13.34, SD=7.34) participants. A one-way ANOVA was performed between relationship types, F (2, 826) =13.46, P<0.000. Figure 7 visualizes the differences between the groups;The graph was built with “ggplot2”.
+
+![image](https://user-images.githubusercontent.com/69866550/100773202-28717f00-33c6-11eb-8c24-3b229fd99c1a.png)
+
+Figure7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
