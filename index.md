@@ -17,24 +17,20 @@ This study aims to visualize and quantify differences between gay, lesbian, and 
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-
+coping with stress
+taking care of their sick partner
+positive communication between partners
+sharing of power in a relationship
+and 
+happiness with the relationship
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
