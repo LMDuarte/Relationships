@@ -176,7 +176,6 @@ When the data was divided between Lesbians(M=14.38,SD= 5.47) , Gays (M=14.28, SD
 
 Figure16: Participants responses to the stress scale
 
-![image](https://user-images.githubusercontent.com/69866550/100774973-45a74d00-33c8-11eb-8147-8082c4417ad9.png)
 
 
 ## Discussion
