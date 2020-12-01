@@ -28,6 +28,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 jj
 <iframe src=
-"https://raw.githubusercontent.com/LMDuarte/Relationships/main/Gay%20likert.html"
+"https://github.com/LMDuarte/Relationships/blob/main/Gay%20likert.html"
 style="width:100%; height:400px;"
 ></iframe>
