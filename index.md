@@ -1,7 +1,9 @@
 ## LGBT and Straight relationships
 
 ### Visualization
-As scientists and statisticians, we must inform our community
+As scientists and statisticians,we must inform our community
+
+
 We must find a way to appeal to the masses
 
 ![image](https://user-images.githubusercontent.com/69866550/100770508-f4488f00-33c2-11eb-8f90-ea136c911212.png)
