@@ -57,6 +57,7 @@ Participants had the option to select that they: Strongly disagree, Disagree, Ne
 ![image](https://user-images.githubusercontent.com/69866550/100772302-05929b00-33c5-11eb-8ae4-bc8514b36ea5.png)
 
 ![image](https://user-images.githubusercontent.com/69866550/100772320-0c211280-33c5-11eb-8d4b-e65da77f44d2.png)
+
 Figure1,2,3: Response to “My spouse and I have equal power in our relationship”
 
 
