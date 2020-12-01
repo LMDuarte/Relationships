@@ -60,20 +60,22 @@ Participants had the option to select that they: Strongly disagree, Disagree, Ne
 
 Figure1,2,3: Response to “My spouse and I have equal power in our relationship”
 
+For this question, I decided to visualize the data with a waffle graph. The waffle does an excellent job at visualizing proportions. Additionally, it is visually appealing, colorful, and eye-catching. Its weakness lies when comparing groups. For this specific analysis, the sample contained an equal number of participants in a gay relationship and a straight relationship, which results in a comparable graph. However, the sample had a higher number of participants in a lesbian relationship, which results in a graph that, visually, does not easily convey the difference between the groups. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The issue of sample size can be resolve by visualizing the data in a pie chart instead.
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/69866550/100772691-8ce00e80-33c5-11eb-905b-60f638237bb2.png)
+![image](https://user-images.githubusercontent.com/69866550/100772716-936e8600-33c5-11eb-8859-66af0ece434f.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LMDuarte/Relationships/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###Partner Care
+The original survey implemented a scale that measured both positive and negative behaviors associated with caring for a sick spouse. Participants were asked to rate how often their spouses engaged in actions that would aid them.
 
-### Support or Contact
+Specifically, participants rated the following scenarios:
+```
+My spouse provided physical care for me
+My spouse helped me get a better perspective on the situation
+My spouse took care of tasks I normally do in order to help me
+My spouse dealt with doctors or medical staff in ways that helped me
+My spouse gave me the time and space that I needed.
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-jj2
-<iframe src=
-"https://github.com/LMDuarte/Relationships/blob/main/Gay%20likert.html"
-style="width:100%; height:400px;"
-></iframe>
