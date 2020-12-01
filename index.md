@@ -3,7 +3,7 @@
 As scientists and statisticians, we must inform our community
 
 <iframe src=
-"https://raw.githubusercontent.com/LMDuarte/Relationships/main/bar.html"
+"https://github.com/LMDuarte/Relationships/blob/main/bar.html"
 style="width:100%; height:400px;"
 ></iframe>
 
