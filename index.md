@@ -1,13 +1,10 @@
 ## LGBT and Straight relationships
 
-As scientists and statisticians, we must inform our community tt4
+###Visualization
+As scientists and statisticians, we must inform our community
+We must find a way to appeal to the masses
+![image](https://user-images.githubusercontent.com/69866550/100770508-f4488f00-33c2-11eb-8f90-ea136c911212.png)
 
-![image](https://user-images.githubusercontent.com/69866550/100770081-7dab9180-33c2-11eb-9365-8ba13952bca8.png)
-
-<iframe src=
-"https://github.com/LMDuarte/Relationships/blob/main/bar.jpg"
-style="width:100%; height:400px;"
-></iframe>
 
 ### Markdown
 
