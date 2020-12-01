@@ -16,19 +16,20 @@ If we want to understand marriage's nuances, it is essential to investigate all 
 This study aims to visualize and quantify differences between gay, lesbian, and straight relationships. This comparison will be approached by analyzing multiple variables such as: 
 
 ```
-
-```
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 coping with stress
 taking care of their sick partner
 positive communication between partners
 sharing of power in a relationship
 and 
 happiness with the relationship
+```
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+
 ```
 
 
