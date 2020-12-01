@@ -1,9 +1,9 @@
 ## LGBT and Straight relationships
 
-As scientists and statisticians, we must inform our community tt
+As scientists and statisticians, we must inform our community tt3
 
 <iframe src=
-"https://github.com/LMDuarte/Relationships/blob/main/bar.html"
+"https://github.com/LMDuarte/Relationships/blob/main/bar.jpg"
 style="width:100%; height:400px;"
 ></iframe>
 
