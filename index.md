@@ -27,7 +27,7 @@ Happiness with the relationship
 ```
 
 ### Hypothesis
-```
+
 H1: Depending on the relationship type (gay, lesbian, and straight) there will be a significant difference between how participants indicate that their partner helps them with stress
 
 H2: Depending on the relationship type there will be a significant difference between the level of care presented to sick spouses 
@@ -38,7 +38,7 @@ H4: Gay, lesbian, and straight couples will not show a significant difference in
 
 H5: There will not be a significant difference between the communication of gay, lesbian and straight couples
 
-```
+
 ## Results
 ### Demographics
 
