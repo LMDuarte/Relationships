@@ -13,6 +13,8 @@ In this study, I will use data from married couples in the United States, to go 
 ### Same-sex and Different-sex Marriage
 If we want to understand marriage's nuances, it is essential to investigate all forms of unions present in the United States. Marriage has long been defined in a rigid binary between men and women. Although, the reality has been that many same-sex couples have shared lives. Past studies of romantic relationships have neglected to include same-sex couples in their analysis
 
+![image](https://user-images.githubusercontent.com/69866550/100771892-8f8e3400-33c4-11eb-91a8-a24af45a0bea.png)
+
 This study aims to visualize and quantify differences between gay, lesbian, and straight relationships. This comparison will be approached by analyzing multiple variables such as: 
 
 ```
@@ -37,6 +39,25 @@ H4: Gay, lesbian, and straight couples will not show a significant difference in
 H5: There will not be a significant difference between the communication of gay, lesbian and straight couples
 
 ```
+## Results
+### Demographics
+
+This study analyzed responses from 838 participants. 
+The sample had an age range from 35 to 65, with a median age of 48.60 (SD =8.380246). The sample was divided into three relationship types that participants could fall under: Gay (Men with Men) (29.6%), Lesbian (Women with Women) (40.8%), and Straight (Men with Women) (29.6%). Most of the sample identified as White (90.1%), followed by Black (3.9%), and Asian / Pacific Islander (3.2%).  Additionally, a small number also reported being Hispanic/Latino (4.3%).
+
+### Power Difference
+Participants were asked to indicate if they agreed to the statement:
+
+“My spouse and I have equal power in our relationship”
+
+Participants had the option to select that they: Strongly disagree, Disagree, Neither agree nor disagree, Agree, or Strongly agree. A two-sample test of proportions was conducted between Lesbians’ (49.7%) and Gays’ (44.8%) indication that they strongly agreed, (1, N= 342,248) =1.2204, p=0.2693. Additionally, the same test of proportions was conducted between Lesbians’ (49.7%) and Straights’ (37.1%), indication that they strongly agreed to the statement, (1, N= 342,248) =8.7569, p=0.003.  
+
+![image](https://user-images.githubusercontent.com/69866550/100772262-fdd2f680-33c4-11eb-912a-eee868824ce9.png)
+
+![image](https://user-images.githubusercontent.com/69866550/100772302-05929b00-33c5-11eb-8ae4-bc8514b36ea5.png)
+
+![image](https://user-images.githubusercontent.com/69866550/100772320-0c211280-33c5-11eb-8d4b-e65da77f44d2.png)
+Figure1,2,3: Response to “My spouse and I have equal power in our relationship”
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
