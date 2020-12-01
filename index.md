@@ -8,6 +8,19 @@ We must find a way to appeal to the masses
 
 ![image](https://user-images.githubusercontent.com/69866550/100770508-f4488f00-33c2-11eb-8f90-ea136c911212.png)
 
+In this study, I will use data from married couples in the United States, to go into detail on the strengths and weaknesses of different visuals.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
