@@ -10,6 +10,12 @@ We must find a way to appeal to the masses
 
 In this study, I will use data from married couples in the United States, to go into detail on the strengths and weaknesses of different visuals.
 
+### Same-sex and Different-sex Marriage
+If we want to understand marriage's nuances, it is essential to investigate all forms of unions present in the United States. Marriage has long been defined in a rigid binary between men and women. Although, the reality has been that many same-sex couples have shared lives. Past studies of romantic relationships have neglected to include same-sex couples in their analysis
+
+This study aims to visualize and quantify differences between gay, lesbian, and straight relationships. This comparison will be approached by analyzing multiple variables such as: 
+
+```
 
 
 
