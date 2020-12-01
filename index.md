@@ -1,10 +1,9 @@
 ## LGBT and Straight relationships
 
-I will present my results below in this web page. Here you can expect to see information regarding 
-
+As scientists and statisticians, we must inform our community
 
 <iframe src=
-"https://lmduarte.github.io/DV/general%20housework%20and%20laundry.html"
+"https://raw.githubusercontent.com/LMDuarte/Relationships/main/bar.html"
 style="width:100%; height:400px;"
 ></iframe>
 
