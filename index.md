@@ -99,7 +99,13 @@ The original study asked participants to rate their happiness with their relatio
 
 Participants could rate their happiness as either: 
 ```
-Extremely unhappy, Fairly Unhappy, A little Unhappy, Happy, Very Happy, Extremely Happy, or Perfect. 
+Extremely unhappy
+Fairly Unhappy
+A little Unhappy
+Happy
+Very Happy
+Extremely Happy
+Perfect
 ```
 The happiness scores were compared between relationship types; Lesbian (M= 4.9, SD=1.96), Gay (M=4.61, SD=2.24), and Straight (M=4.14, SD=2.34). A one-way ANOVA was performed between relationship types, F (2, 828) =5.85, P = 0.003. The data is visualized in figure9; it was built with "ggplot2".
 
@@ -151,9 +157,13 @@ Sometimes
 Often
 Very Often
 ```
+When looking at coping with stress, I decided to approach the visualization differently.  Using the "likert" package, I was able to visualize the whole scale in one graph. 
 
+![image](https://user-images.githubusercontent.com/69866550/100774330-94081c00-33c7-11eb-9c38-3da2714a504e.png)
 
+![image](https://user-images.githubusercontent.com/69866550/100774370-9c605700-33c7-11eb-81fb-745fc17dc6d7.png)
 
+![image](https://user-images.githubusercontent.com/69866550/100774389-a2563800-33c7-11eb-8647-c92e7b8cecb4.png)
 
 
 
