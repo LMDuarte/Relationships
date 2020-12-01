@@ -16,19 +16,25 @@ If we want to understand marriage's nuances, it is essential to investigate all 
 This study aims to visualize and quantify differences between gay, lesbian, and straight relationships. This comparison will be approached by analyzing multiple variables such as: 
 
 ```
-coping with stress
-taking care of their sick partner
-positive communication between partners
-sharing of power in a relationship
-and 
-happiness with the relationship
+Coping with stress
+Taking care of their sick partner
+Positive communication between partners
+Sharing of power in a relationship
+            &
+Happiness with the relationship
 ```
 
-### Markdown
+### Hypothesis
+```
+H1: Depending on the relationship type (gay, lesbian, and straight) there will be a significant difference between how participants indicate that their partner helps them with stress
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+H2: Depending on the relationship type there will be a significant difference between the level of care presented to sick spouses 
 
-```markdown
+H3: Depending on the relationship type there will be a significant difference between participants indication that both partners have the same power in the relationship
+
+H4: Gay, lesbian, and straight couples will not show a significant difference in how they score their happiness with the relationship
+
+H5: There will not be a significant difference between the communication of gay, lesbian and straight couples
 
 ```
 
